@@ -1,0 +1,17 @@
+        fd         3
+       nhg         1
+        xz         8
+        fd         5
+        ds         4
+      sdaf         2
+        gd        66
+        fs        87
+        f0         3
+       sdf         7
+        fs         8
+       fsd         9
+       fsd        54
+       dfs         1
+   fswewfw         4
+       gfd         7
+      sfdg        67

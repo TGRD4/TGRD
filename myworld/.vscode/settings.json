@@ -1,0 +1,29 @@
+{
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "WINDOWS.H": "cpp",
+        "functional": "c",
+        "cstring": "c",
+        "names_st.h": "c",
+        "math.h": "c",
+        "assert.h": "c",
+        "list": "c",
+        "cstdlib": "c",
+        "future": "c",
+        "GAISI.C": "cpp",
+        "typeinfo": "cpp",
+        "stdio.h": "c",
+        "random": "c",
+        "CESHI1.C": "cpp",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "string.h": "c"
+    }
+}
